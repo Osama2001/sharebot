@@ -32,7 +32,9 @@ console.log("Welcome Again !");
   member.createDM().then(function (channel) {
   return channel.send(` 
 **
-https://discord.gg/hKtvV9T
+Invite rewards +ranks free + giveaways
+https://discord.gg/8M9h2Kn
+https://discord.gg/Dajw6FM
  ${member}  
 **`)
 }).catch(console.error)
@@ -43,7 +45,9 @@ client.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
 **
-https://discord.gg/hKtvV9T
+Invite rewards +ranks free + giveaways
+https://discord.gg/8M9h2Kn
+https://discord.gg/Dajw6FM
  ${member}  
 **`) 
 }).catch(console.error)
