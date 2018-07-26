@@ -35,7 +35,7 @@ console.log("Welcome Again !");
 Invite rewards +ranks free + giveaways
 https://discord.gg/8M9h2Kn
 https://discord.gg/Dajw6FM
-https://discord.gg/3xgQ6PB
+https://discord.gg/HpC2RRR
 https://discord.gg/7bdnSyy
  ${member}  
 **`)
@@ -50,7 +50,7 @@ client.on("guildMemberAdd", member => {
 Invite rewards +ranks free + giveaways
 https://discord.gg/8M9h2Kn
 https://discord.gg/Dajw6FM
-https://discord.gg/3xgQ6PB
+https://discord.gg/HpC2RRR
 https://discord.gg/7bdnSyy
  ${member}  
 **`) 
